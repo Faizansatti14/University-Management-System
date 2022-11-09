@@ -1,0 +1,1 @@
+Its a project based on C++ where we have taken the whole university as a system.This project deals with all the administration operation of the university.
