@@ -79,7 +79,7 @@ class student
     int marks[6],att[6],dept_code;//marks attendence and department code
     int pay; //fee paid vairiable
     public://public members
-    char usn[11];//usn is made public as it can get access anywhere in the program
+    char usn[11];//usn is made public as it can get access anywhere in the program usn is 'university serial number' 
     student()//constructor
     {
         strcpy(name,"\0");
